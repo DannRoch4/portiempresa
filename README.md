@@ -8,7 +8,7 @@
 - Template criado para aperfeiçoamente.
 
 ## Links Úteis🚀
-- [Site Nubank](https://dannroch4.github.io/projeto-banco-nubank-web/)
+- [Site Projeto](https://dannroch4.github.io/portiempresa/))
 
 - [cleanmgr](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cleanmgr)
 - [Link.Tree](https://linktr.ee/danntech)
@@ -18,5 +18,5 @@
 
 ## Linguagens 🚀
 
-![image]()
+![image](![image](https://github.com/user-attachments/assets/2f9940c1-ab2b-431e-adeb-676e348e6a75)
 
