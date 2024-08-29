@@ -17,5 +17,5 @@
 
 ## Linguagens 🚀
 
-![image](![image](https://github.com/user-attachments/assets/2f9940c1-ab2b-431e-adeb-676e348e6a75)
+[image](https://github.com/user-attachments/assets/2f9940c1-ab2b-431e-adeb-676e348e6a75)
 
