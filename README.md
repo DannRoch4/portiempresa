@@ -2,7 +2,8 @@
 
 # Template 📸
 
-[image](https://github.com/user-attachments/assets/e14a4ac4-d262-4f74-891d-649920cdcdb5)
+![image](https://github.com/user-attachments/assets/9ee4664b-d964-4379-b703-a04086c9780c)
+
 
 - Template criado para aperfeiçoamente.
 
@@ -17,5 +18,6 @@
 
 ## Linguagens 🚀
 
-[image](https://github.com/user-attachments/assets/2f9940c1-ab2b-431e-adeb-676e348e6a75)
+![image](https://github.com/user-attachments/assets/6be519c0-2cbf-4a3e-b4e6-cc3fe50545fe)
+
 
