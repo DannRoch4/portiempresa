@@ -3,7 +3,6 @@
 # Template 📸
 
 ![image](![image](https://github.com/user-attachments/assets/e14a4ac4-d262-4f74-891d-649920cdcdb5)
-)
 
 - Template criado para aperfeiçoamente.
 
